@@ -3,6 +3,7 @@
 1.[Concentric circles](shader/concentric-circles/)
 </br>
   ![Output](output/concentric-circles.gif)
+</br>
 2.[5x5 Grid](shader/grid/)
 </br>
-  ![Output](gif/grid.jpg)
+  ![Output](output/grid.jpg)
